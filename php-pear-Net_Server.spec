@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.2
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Generic server class
 License:	PHP License
 Group:		Development/PHP
